@@ -44,6 +44,7 @@ Current Maintainers
 -------------------
 
 - Richard Eriksson (https://github.com/sillygwailo)
+- Robert Garrigos (https://github.com/robertgarrigos)
 
 Credits
 -------
